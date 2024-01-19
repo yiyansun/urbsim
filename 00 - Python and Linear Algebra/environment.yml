@@ -1,0 +1,34 @@
+name: urbsim
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - geopandas
+  - networkx
+  - osmnx
+  - momepy
+  - pyrosm
+  - contextily
+  - leidenalg
+  - scikit-learn
+  - scikit-mobility
+  - statsmodels
+  - colorcet
+  - matplotlib
+  - seaborn
+  - geopy
+  - cartopy
+  - rtree
+  - shapely
+  - pyproj
+  - jupyter
+  - nbconvert
+  - nbclient
+  - dask
+  - datashader
+  - pyarrow
+  - holoviews
+  - geoviews
