@@ -1,0 +1,16 @@
+if (distance > 8.143) and (distance > 19.211) and (distance > 39.551) then response: 12.962 | based on 43,163 samples
+
+if (distance > 8.143) and (distance > 19.211) and (distance <= 39.551) then response: 54.596 | based on 4,645 samples
+
+if (distance > 8.143) and (distance <= 19.211) and (population_i <= 399483.5) then response: 197.815 | based on 1,770 samples
+
+if (distance <= 8.143) and (distance > 4.386) and (population_i <= 519013.0) then response: 689.072 | based on 320 samples
+
+if (distance <= 8.143) and (distance <= 4.386) and (married_i > 0.257) then response: 1560.342 | based on 76 samples
+
+if (distance > 8.143) and (distance <= 19.211) and (population_i > 399483.5) then response: 1002.5 | based on 42 samples
+
+if (distance <= 8.143) and (distance > 4.386) and (population_i > 519013.0) then response: 3515.667 | based on 3 samples
+
+if (distance <= 8.143) and (distance <= 4.386) and (married_i <= 0.257) then response: 5034.5 | based on 2 samples
+
