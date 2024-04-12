@@ -1,0 +1,11 @@
+Rank,degree(seq),closeness(seq),betweenness(seq)
+1,King's Cross St. Pancras,Green Park,Baker Street
+2,Baker Street,Baker Street,Bethnal Green
+3,Waterloo,Liverpool Street,Earl's Court
+4,Green Park,Canary Wharf,Notting Hill Gate
+5,Earl's Court,Embankment,West Hampstead
+6,Canning Town (DLR),Canning Town (DLR),Bank
+7,Oxford Circus,Harrow-on-the-Hill,Mile End
+8,Liverpool Street,High Street Kensington,Canary Wharf
+9,Turnham Green,Bank,Canning Town
+10,none,Stratford (Rail),Ealing Common

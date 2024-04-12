@@ -1,0 +1,11 @@
+Rank,degree_w(seq),closeness_w(seq),betweeness_w(seq)
+1,Abbey Road,Green Park,Green Park
+2,Theobalds Grove,Bank and Monument,King's Cross St. Pancras
+3,Heathrow Terminal 4,King's Cross St. Pancras,Bank and Monument
+4,Star Lane,Waterloo,Canada Water
+5,Grange Hill,Vauxhall,Finchley Road
+6,Chalfont & Latimer,Surrey Quays,Willesden Junction
+7,Emerson Park,West Hampstead,Highbury & Islington
+8,Stamford Brook,Earl's Court,Blackhorse Road
+9,Stratford,Euston,Earl's Court
+10,Chiswick Park,Stratford,Shepherd's Bush

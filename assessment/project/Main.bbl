@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{savitzky}
+A.~Savitzky, M.~J.~E. Golay, Smoothing and differentiation of data by simplified least squares procedures., Analytical Chemistry 36~(8) (1964) 1627--1639.
+\newblock \href {https://doi.org/10.1021/ac60214a047} {\path{doi:10.1021/ac60214a047}}.
+
+\bibitem{Harvey2002}
+C.~J. Harvey, J.~M. Pilcher, R.~J. Eckersley, M.~J. Blomley, D.~O. Cosgrove, Advances in ultrasound, Clinical Radiology 57~(3) (2002) 157--177.
+\newblock \href {https://doi.org/10.1053/crad.2001.0918} {\path{doi:10.1053/crad.2001.0918}}.
+
+\end{thebibliography}

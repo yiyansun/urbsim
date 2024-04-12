@@ -1,0 +1,399 @@
+station_destination,SIM_est_5beta_sum,flow_sum,change_ratio
+Westbourne Park,1327.0,1347,-20.0
+Oval,2524.0,2544,-20.0
+Kentish Town,3385.0,3404,-19.0
+Kennington,1142.0,1161,-19.0
+Caledonian Road,1785.0,1803,-18.0
+Brixton,5066.0,5084,-18.0
+Holland Park,2047.0,2063,-16.0
+Whitechapel,17617.0,17633,-16.0
+Lambeth North,1303.0,1319,-16.0
+High Street Kensington,5412.0,5427,-15.0
+Barons Court,2941.0,2956,-15.0
+Royal Oak,842.0,856,-14.0
+Finsbury Park,6755.0,6769,-14.0
+Holloway Road,1682.0,1696,-14.0
+Edgware Road,6855.0,6868,-13.0
+Shepherd's Bush,9877.0,9890,-13.0
+Canary Wharf,58759.0,58772,-13.0
+West Hampstead,5843.0,5856,-13.0
+Bethnal Green,4648.0,4660,-12.0
+Canada Water,20431.0,20443,-12.0
+Aldgate East,7920.0,7932,-12.0
+St. Paul's,13434.0,13446,-12.0
+Finchley Road,3405.0,3417,-12.0
+Ladbroke Grove,2119.0,2131,-12.0
+Earl's Court,6602.0,6613,-11.0
+Bermondsey,3161.0,3172,-11.0
+Parsons Green,2700.0,2711,-11.0
+Pimlico,5574.0,5585,-11.0
+Hammersmith,18240.0,18250,-10.0
+St. John's Wood,3972.0,3982,-10.0
+Fulham Broadway,4190.0,4200,-10.0
+Bayswater,605.0,615,-10.0
+West Brompton,5849.0,5859,-10.0
+Chalk Farm,1320.0,1329,-9.0
+Aldgate,7773.0,7782,-9.0
+Willesden Junction,4156.0,4165,-9.0
+Stockwell,1614.0,1623,-9.0
+Swiss Cottage,2589.0,2598,-9.0
+Warwick Avenue,1165.0,1174,-9.0
+Euston,16791.0,16800,-9.0
+Acton Town,2194.0,2202,-8.0
+Borough,3246.0,3254,-8.0
+Wimbledon,6287.0,6295,-8.0
+Stepney Green,1871.0,1879,-8.0
+Maida Vale,941.0,949,-8.0
+Sloane Square,8221.0,8229,-8.0
+Goodge Street,6449.0,6457,-8.0
+Regent's Park,3356.0,3364,-8.0
+East Putney,1869.0,1877,-8.0
+Liverpool Street,61115.0,61122,-7.0
+Latimer Road,1102.0,1109,-7.0
+Chancery Lane,15384.0,15391,-7.0
+Queensway,1875.0,1882,-7.0
+Clapham North,1231.0,1238,-7.0
+Mornington Crescent,2920.0,2927,-7.0
+Queen's Park,2160.0,2167,-7.0
+Farringdon,25585.0,25592,-7.0
+Belsize Park,2248.0,2255,-7.0
+White City,5959.0,5966,-7.0
+Tower Hill,8279.0,8286,-7.0
+Kilburn Park,816.0,823,-7.0
+Kensal Green,465.0,472,-7.0
+Tufnell Park,551.0,557,-6.0
+Notting Hill Gate,5484.0,5490,-6.0
+West Kensington,1339.0,1345,-6.0
+Blackfriars,10842.0,10848,-6.0
+Gloucester Road,5188.0,5194,-6.0
+North Greenwich,6270.0,6276,-6.0
+Gospel Oak,2019.0,2025,-6.0
+Holborn,22340.0,22346,-6.0
+Shadwell,7440.0,7446,-6.0
+Shepherd's Bush Market,410.0,416,-6.0
+Mile End,3753.0,3759,-6.0
+Angel,8097.0,8103,-6.0
+Chiswick Park,1511.0,1517,-6.0
+Highbury & Islington,25380.0,25385,-5.0
+Kensington,2247.0,2252,-5.0
+Canning Town,15423.0,15428,-5.0
+Old Street,15892.0,15897,-5.0
+Hampstead,2005.0,2010,-5.0
+St. James's Park,13334.0,13339,-5.0
+Archway,2188.0,2193,-5.0
+Harlesden,1663.0,1668,-5.0
+Camden Town,6344.0,6348,-4.0
+Park Royal,1548.0,1552,-4.0
+Bank and Monument,78545.0,78549,-4.0
+Camden Road,3780.0,3784,-4.0
+Baker Street,14969.0,14973,-4.0
+Elephant & Castle,6423.0,6427,-4.0
+Arsenal,311.0,315,-4.0
+Barking,7000.0,7004,-4.0
+Stamford Brook,780.0,784,-4.0
+Kilburn,1949.0,1953,-4.0
+Clapham Common,2016.0,2020,-4.0
+Putney Bridge,2490.0,2494,-4.0
+North Acton,3164.0,3168,-4.0
+Cannon Street,4694.0,4698,-4.0
+Cutty Sark,1744.0,1748,-4.0
+Upton Park,1638.0,1642,-4.0
+Hackney Wick,1259.0,1263,-4.0
+Stonebridge Park,725.0,729,-4.0
+Wood Lane,1574.0,1578,-4.0
+Richmond,5393.0,5397,-4.0
+Royal Albert,680.0,684,-4.0
+Leyton,1443.0,1447,-4.0
+Temple,6776.0,6780,-4.0
+Prince Regent,750.0,754,-4.0
+Goldhawk Road,366.0,370,-4.0
+Moorgate,24571.0,24574,-3.0
+Hampstead Heath,2789.0,2792,-3.0
+Mansion House,7812.0,7815,-3.0
+Manor House,1308.0,1311,-3.0
+Golders Green,1868.0,1871,-3.0
+Hyde Park Corner,2407.0,2410,-3.0
+Greenwich,1186.0,1189,-3.0
+Gunnersbury,4772.0,4775,-3.0
+Marylebone,4247.0,4250,-3.0
+Island Gardens,688.0,691,-3.0
+Kingsbury,1015.0,1018,-3.0
+New Cross,1024.0,1027,-3.0
+Barbican,9131.0,9134,-3.0
+Blackhorse Road,2952.0,2955,-3.0
+Bromley-by-Bow,1610.0,1613,-3.0
+Stratford,55951.0,55954,-3.0
+Canonbury,843.0,846,-3.0
+Silver Street,950.0,953,-3.0
+Queensbury,436.0,439,-3.0
+Pudding Mill Lane,428.0,431,-3.0
+Denmark Hill,2609.0,2612,-3.0
+South Ealing,667.0,670,-3.0
+Ealing Broadway,4843.0,4846,-3.0
+East Acton,1502.0,1505,-3.0
+East Ham,2059.0,2062,-3.0
+Peckham Rye,1067.0,1070,-3.0
+Star Lane,1050.0,1052,-2.0
+Northfields,862.0,864,-2.0
+Stratford International,1544.0,1546,-2.0
+Kew Gardens,790.0,792,-2.0
+Kentish Town West,1126.0,1128,-2.0
+Sudbury Hill,275.0,277,-2.0
+North Harrow,188.0,190,-2.0
+Upper Holloway,896.0,898,-2.0
+Watford Junction,1365.0,1367,-2.0
+Newbury Park,557.0,559,-2.0
+Homerton,1996.0,1998,-2.0
+West Ham,5485.0,5487,-2.0
+New Cross Gate,1338.0,1340,-2.0
+Willesden Green,828.0,830,-2.0
+Tooting Broadway,4504.0,4506,-2.0
+King George V,798.0,800,-2.0
+Southfields,1349.0,1351,-2.0
+South Woodford,764.0,766,-2.0
+Pontoon Dock,1121.0,1123,-2.0
+London Fields,788.0,790,-2.0
+Rayners Lane,424.0,426,-2.0
+Redbridge,196.0,198,-2.0
+Ruislip Manor,406.0,408,-2.0
+Lewisham,2398.0,2400,-2.0
+Northwick Park,1711.0,1713,-2.0
+Seven Sisters,10189.0,10191,-2.0
+Snaresbrook,510.0,512,-2.0
+Lancaster Gate,1818.0,1820,-2.0
+Mudchute,300.0,302,-2.0
+South Hampstead,234.0,236,-2.0
+South Kensington,15323.0,15325,-2.0
+Knightsbridge,6819.0,6821,-2.0
+Osterley,519.0,521,-2.0
+Rectory Road,217.0,219,-2.0
+Abbey Road,343.0,345,-2.0
+Deptford Bridge,838.0,840,-2.0
+Edmonton Green,781.0,783,-2.0
+Gallions Reach,555.0,557,-2.0
+Ealing Common,913.0,915,-2.0
+Beckton Park,86.0,88,-2.0
+Dalston Kingsland,2089.0,2091,-2.0
+Dalston Junction,1287.0,1289,-2.0
+Custom House,843.0,845,-2.0
+Crouch Hill,402.0,404,-2.0
+Covent Garden,4353.0,4355,-2.0
+Hackney Central,2438.0,2440,-2.0
+Fairlop,180.0,182,-2.0
+Clapham High Street,1294.0,1296,-2.0
+Carpenders Park,338.0,340,-2.0
+Finchley Central,1919.0,1921,-2.0
+Canons Park,525.0,526,-1.0
+Queens Road Peckham,746.0,747,-1.0
+Dagenham East,648.0,649,-1.0
+Brockley,467.0,468,-1.0
+Tooting Bec,1238.0,1239,-1.0
+Poplar,1300.0,1301,-1.0
+Pinner,291.0,292,-1.0
+Upminster,1131.0,1132,-1.0
+Tottenham Court Road,19125.0,19126,-1.0
+Dollis Hill,846.0,847,-1.0
+Tottenham Hale,3238.0,3239,-1.0
+Paddington,20192.0,20193,-1.0
+Beckton,441.0,442,-1.0
+Bow Church,924.0,925,-1.0
+Northwood Hills,487.0,488,-1.0
+Turnpike Lane,991.0,992,-1.0
+Elm Park,268.0,269,-1.0
+Elverson Road,225.0,226,-1.0
+Enfield Town,748.0,749,-1.0
+Euston Square,8092.0,8093,-1.0
+Bounds Green,777.0,778,-1.0
+Walthamstow Central,5270.0,5271,-1.0
+Uxbridge,4315.0,4316,-1.0
+Buckhurst Hill,227.0,228,-1.0
+Caledonian Road & Barnsbury,1667.0,1668,-1.0
+St James Street,183.0,184,-1.0
+Walthamstow Queens Road,1266.0,1267,-1.0
+Wandsworth Road,497.0,498,-1.0
+South Wimbledon,1360.0,1361,-1.0
+South Tottenham,551.0,552,-1.0
+Charing Cross,7015.0,7016,-1.0
+Chigwell,147.0,148,-1.0
+Shoreditch High Street,7557.0,7558,-1.0
+Stanmore,982.0,983,-1.0
+Clapham Junction,4968.0,4969,-1.0
+Clapton,426.0,427,-1.0
+Seven Kings,558.0,559,-1.0
+Bush Hill Park,175.0,176,-1.0
+Ruislip,256.0,257,-1.0
+Highgate,855.0,856,-1.0
+Wembley Central,1326.0,1327,-1.0
+Burnt Oak,648.0,649,-1.0
+Wembley Park,5758.0,5759,-1.0
+Crossharbour,1207.0,1208,-1.0
+Ruislip Gardens,166.0,167,-1.0
+Hillingdon,317.0,318,-1.0
+King's Cross St. Pancras,33329.0,33330,-1.0
+Loughton,654.0,655,-1.0
+London City Airport,1940.0,1941,-1.0
+Alperton,740.0,741,-1.0
+Grange Hill,75.0,76,-1.0
+Leytonstone,1843.0,1844,-1.0
+Leyton Midland Road,444.0,445,-1.0
+Wimbledon Park,595.0,596,-1.0
+Hackney Downs,833.0,834,-1.0
+Morden,1446.0,1447,-1.0
+Wood Street,403.0,404,-1.0
+Hatch End,92.0,93,-1.0
+Headstone Lane,309.0,310,-1.0
+Heathrow Terminal 4,692.0,693,-1.0
+Imperial Wharf,2048.0,2049,-1.0
+Ilford,1664.0,1665,-1.0
+Ickenham,281.0,282,-1.0
+Heathrow Terminals 2 & 3,2405.0,2406,-1.0
+Woodgrange Park,241.0,242,-1.0
+Hendon Central,1877.0,1878,-1.0
+Amersham,255.0,256,-1.0
+Gants Hill,600.0,601,-1.0
+Upminster Bridge,567.0,568,-1.0
+Anerley,172.0,173,-1.0
+Arnos Grove,747.0,748,-1.0
+White Hart Lane,640.0,641,-1.0
+Moor Park,549.0,550,-1.0
+Bushey,456.0,456,0.0
+Mill Hill East,681.0,681,0.0
+Stamford Hill,352.0,352,0.0
+Emerson Park,42.0,42,0.0
+North Ealing,332.0,332,0.0
+Heathrow Terminal 5,975.0,975,0.0
+Balham,3814.0,3814,0.0
+Forest Gate,816.0,816,0.0
+East Finchley,1253.0,1253,0.0
+Epping,498.0,498,0.0
+Chadwell Heath,561.0,561,0.0
+Southbury,538.0,538,0.0
+Chalfont & Latimer,554.0,554,0.0
+West Silvertown,893.0,893,0.0
+South Ruislip,289.0,289,0.0
+Wanstead Park,416.0,416,0.0
+Kenton,768.0,768,0.0
+Bond Street,20967.0,20967,0.0
+Kensal Rise,1376.0,1376,0.0
+Woodford,706.0,706,0.0
+Stoke Newington,479.0,479,0.0
+Hounslow West,401.0,401,0.0
+Highams Park,390.0,390,0.0
+Turnham Green,1515.0,1515,0.0
+Turkey Street,458.0,458,0.0
+High Barnet,953.0,953,0.0
+Bow Road,1193.0,1193,0.0
+Tower Gateway,3342.0,3342,0.0
+Totteridge & Whetstone,287.0,287,0.0
+Heron Quays,5975.0,5975,0.0
+Brent Cross,450.0,450,0.0
+Theydon Bois,98.0,98,0.0
+Theobalds Grove,182.0,182,0.0
+Brentwood,742.0,742,0.0
+Sydenham,515.0,515,0.0
+Hornchurch,451.0,451,0.0
+Surrey Quays,1005.0,1005,0.0
+Sudbury Town,218.0,218,0.0
+Hounslow Central,708.0,708,0.0
+Hounslow East,843.0,843,0.0
+Bruce Grove,350.0,350,0.0
+Hoxton,2181.0,2181,0.0
+Cheshunt,116.0,116,0.0
+Chesham,243.0,243,0.0
+Harrow & Wealdstone,1335.0,1335,0.0
+Croxley,340.0,340,0.0
+Crystal Palace,499.0,499,0.0
+Ravenscourt Park,1895.0,1895,0.0
+Great Portland Street,6936.0,6936,0.0
+Cyprus,850.0,850,0.0
+West Ruislip,194.0,194,0.0
+Dagenham Heathway,1108.0,1108,0.0
+Leytonstone High Road,314.0,314,0.0
+Limehouse,2931.0,2931,0.0
+Watford,961.0,961,0.0
+Preston Road,411.0,411,0.0
+Debden,865.0,865,0.0
+Plaistow,1049.0,1049,0.0
+Oakwood,423.0,423,0.0
+Barkingside,262.0,262,0.0
+West Croydon,2048.0,2048,0.0
+Perivale,532.0,532,0.0
+West Finchley,91.0,91,0.0
+Goodmayes,683.0,683,0.0
+West Harrow,122.0,122,0.0
+Edgware,772.0,772,0.0
+Wood Green,2146.0,2146,0.0
+Northwood,1018.0,1018,0.0
+Rickmansworth,937.0,937,0.0
+Chingford,237.0,237,0.0
+Chorleywood,702.0,702,0.0
+Harringay Green Lanes,544.0,544,0.0
+Kilburn High Road,266.0,266,0.0
+Harold Wood,530.0,530,0.0
+Shenfield,933.0,933,0.0
+Clapham South,1513.0,1513,0.0
+Hanger Lane,1493.0,1493,0.0
+Greenford,1157.0,1157,0.0
+Russell Square,5172.0,5172,0.0
+Northolt,663.0,663,0.0
+Woodside Park,745.0,745,0.0
+Hainault,356.0,356,0.0
+Watford High Street,790.0,790,0.0
+Haggerston,1184.0,1184,0.0
+Colliers Wood,865.0,865,0.0
+Maryland,350.0,350,0.0
+Acton Central,750.0,750,0.0
+Cockfosters,262.0,262,0.0
+Westminster,15466.0,15466,0.0
+Westferry,1251.0,1250,1.0
+Wanstead,420.0,419,1.0
+Boston Manor,893.0,892,1.0
+Becontree,457.0,456,1.0
+Colindale,2082.0,2081,1.0
+Brondesbury,713.0,712,1.0
+Norwood Junction,407.0,406,1.0
+North Wembley,366.0,365,1.0
+Penge West,151.0,150,1.0
+Roding Valley,85.0,84,1.0
+Neasden,733.0,732,1.0
+Romford,2195.0,2194,1.0
+Finchley Road & Frognal,1530.0,1529,1.0
+Harrow-on-the-Hill,3020.0,3019,1.0
+Royal Victoria,764.0,763,1.0
+South Acton,976.0,975,1.0
+East India,1523.0,1522,1.0
+Forest Hill,609.0,608,1.0
+Manor Park,437.0,436,1.0
+South Kenton,262.0,261,1.0
+Hatton Cross,1220.0,1219,1.0
+Southgate,875.0,874,1.0
+Southwark,10327.0,10326,1.0
+Cambridge Heath,459.0,458,1.0
+Honor Oak Park,342.0,341,1.0
+Gidea Park,300.0,299,1.0
+Stratford High Street,789.0,788,1.0
+Brondesbury Park,896.0,895,1.0
+South Harrow,388.0,387,1.0
+Eastcote,365.0,364,1.0
+Leicester Square,8849.0,8847,2.0
+Embankment,10222.0,10220,2.0
+West Acton,490.0,488,2.0
+Oxford Circus,44370.0,44368,2.0
+Upney,487.0,485,2.0
+Langdon Park,1991.0,1989,2.0
+London Bridge,29928.0,29926,2.0
+Rotherhithe,323.0,321,2.0
+Waterloo,23410.0,23408,2.0
+Warren Street,17311.0,17309,2.0
+Wapping,1068.0,1066,2.0
+Vauxhall,16244.0,16242,2.0
+West India Quay,402.0,400,2.0
+All Saints,446.0,444,2.0
+Devons Road,614.0,611,3.0
+Marble Arch,6148.0,6145,3.0
+Blackwall,668.0,665,3.0
+South Quay,4594.0,4591,3.0
+Green Park,26757.0,26754,3.0
+Woolwich Arsenal,4431.0,4428,3.0
+Piccadilly Circus,13645.0,13641,4.0
+Victoria,33256.0,33251,5.0

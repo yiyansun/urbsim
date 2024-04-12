@@ -1,0 +1,11 @@
+Rank,degree_w(nonseq),closeness_w(nonseq),betweenness_w(nonseq),degree_w(seq),closeness_w(seq),betweeness_w(seq)
+1,Abbey Road,Green Park,Green Park,Abbey Road,Green Park,Green Park
+2,Theobalds Grove,Westminster,Bank and Monument,Theobalds Grove,Bank and Monument,King's Cross St. Pancras
+3,Heathrow Terminal 4,Waterloo,Waterloo,Heathrow Terminal 4,King's Cross St. Pancras,Bank and Monument
+4,Heathrow Terminals 2 & 3,Bank and Monument,Westminster,Star Lane,Waterloo,Canada Water
+5,Stratford High Street,Oxford Circus,Liverpool Street,Grange Hill,Vauxhall,Finchley Road
+6,Cheshunt,Bond Street,Stratford,Chalfont & Latimer,Surrey Quays,Willesden Junction
+7,Star Lane,Liverpool Street,Euston,Emerson Park,West Hampstead,Highbury & Islington
+8,West Ham,Victoria,Oxford Circus,Stamford Brook,Earl's Court,Blackhorse Road
+9,Grange Hill,Warren Street,Bond Street,Stratford,Euston,Earl's Court
+10,Canning Town,Hyde Park Corner,Warren Street,Chiswick Park,Stratford,Shepherd's Bush

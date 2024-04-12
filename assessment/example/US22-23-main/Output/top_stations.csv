@@ -1,0 +1,11 @@
+Rank,degree(nonseq),closeness(nonseq),betweenness(nonseq),degree(seq),closeness(seq),betweeness(seq)
+1,Stratford,Green Park,Stratford,Stratford,Green Park,Stratford
+2,Bank and Monument,Bank and Monument,Bank and Monument,Bank and Monument,King's Cross St. Pancras,King's Cross St. Pancras
+3,Baker Street,King's Cross St. Pancras,Liverpool Street,King's Cross St. Pancras,Waterloo,Waterloo
+4,King's Cross St. Pancras,Westminster,King's Cross St. Pancras,Baker Street,Bank and Monument,Bank and Monument
+5,Earl's Court,Waterloo,Waterloo,Earl's Court,West Hampstead,Canada Water
+6,Canning Town,Oxford Circus,Green Park,Oxford Circus,Canada Water,West Hampstead
+7,West Ham,Bond Street,Euston,Canning Town,Stratford,Earl's Court
+8,Liverpool Street,Angel,Westminster,Willesden Junction,Earl's Court,Shepherd's Bush
+9,Green Park,Farringdon,Baker Street,Turnham Green,Shepherd's Bush,Euston
+10,Oxford Circus,Moorgate,Finchley Road,Green Park,Oxford Circus,Baker Street

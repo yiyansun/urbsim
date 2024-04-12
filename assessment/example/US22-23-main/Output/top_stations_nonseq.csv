@@ -1,0 +1,11 @@
+Rank,degree(nonseq),value,closeness(nonseq),value,betweenness(nonseq),value
+1,Stratford,9,Green Park,0.11477761836441894,Stratford,0.2978457823852556
+2,Bank and Monument,8,Bank and Monument,0.1135718341851221,Bank and Monument,0.29048946048382207
+3,Baker Street,7,King's Cross St. Pancras,0.11344299489506524,Liverpool Street,0.27080685525140386
+4,King's Cross St. Pancras,7,Westminster,0.11254924029262803,King's Cross St. Pancras,0.2553072865243914
+5,Earl's Court,6,Waterloo,0.11226494527083918,Waterloo,0.2439208311181999
+6,Canning Town,6,Oxford Circus,0.11120378092855157,Green Park,0.21583486358392395
+7,West Ham,6,Bond Street,0.11098779134295228,Euston,0.20832425399718635
+8,Liverpool Street,6,Angel,0.11074197120708748,Westminster,0.20333528717175298
+9,Green Park,6,Farringdon,0.11074197120708748,Baker Street,0.1915677645593064
+10,Oxford Circus,6,Moorgate,0.11031439602868175,Finchley Road,0.16508468682528832

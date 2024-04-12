@@ -1,0 +1,11 @@
+Rank,degree(seq),closeness(seq),betweeness(seq)
+1,Stratford,Green Park,Stratford
+2,Bank and Monument,King's Cross St. Pancras,King's Cross St. Pancras
+3,King's Cross St. Pancras,Waterloo,Waterloo
+4,Baker Street,Bank and Monument,Bank and Monument
+5,Earl's Court,West Hampstead,Canada Water
+6,Oxford Circus,Canada Water,West Hampstead
+7,Canning Town,Stratford,Earl's Court
+8,Willesden Junction,Earl's Court,Shepherd's Bush
+9,Turnham Green,Shepherd's Bush,Euston
+10,Green Park,Oxford Circus,Baker Street

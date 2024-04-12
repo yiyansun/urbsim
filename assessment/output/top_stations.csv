@@ -1,0 +1,11 @@
+Rank,station_name,degree,station_name,betweenness,station_name,closeness,degree(seq),closeness(seq),betweenness(seq)
+1,King's Cross St. Pancras,0.016018306636155607,Baker Street,0.3855940209518611,Green Park,0.09489685124864278,King's Cross St. Pancras,Green Park,Baker Street
+2,Baker Street,0.016018306636155607,Finchley Road,0.3126613902126677,Bond Street,0.09373659373659374,Baker Street,Baker Street,Bethnal Green
+3,Oxford Circus,0.013729977116704806,Liverpool Street,0.2703167971784267,Westminster,0.09319684367669012,Waterloo,Liverpool Street,Earl's Court
+4,Green Park,0.013729977116704806,West Hampstead,0.27026431255642097,Baker Street,0.09289965986394558,Green Park,Canary Wharf,Notting Hill Gate
+5,Bank,0.013729977116704806,West Hampstead,0.2696240001679508,Waterloo,0.09238900634249471,Earl's Court,Embankment,West Hampstead
+6,Earl's Court,0.013729977116704806,King's Cross St. Pancras,0.2585182541515336,Bank,0.092,Canning Town (DLR),Canning Town (DLR),Bank
+7,Waterloo,0.013729977116704806,Bank,0.22134864484705982,Oxford Circus,0.09161425576519916,Oxford Circus,Harrow-on-the-Hill,Mile End
+8,Turnham Green,0.011441647597254004,Mile End,0.18641488044003107,Liverpool Street,0.09001029866117405,Liverpool Street,High Street Kensington,Canary Wharf
+9,Canning Town (DLR),0.011441647597254004,Oxford Circus,0.18177523985472258,Regent's Park,0.08927477017364657,Turnham Green,Bank,Canning Town
+10,Liverpool Street,0.011441647597254004,Bethnal Green,0.18066256586820062,Finchley Road,0.08916547643338094,none,Stratford (Rail),Ealing Common
